@@ -1,24 +1,26 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Header from './Components/Header.js'
+import Body from './Components/Body.js'
 
 function App() {
+
+  let links = [
+    {key : 0, label : 'Profile', link:'#profile'},
+    {key : 1, label : 'Skills', link:'#skills'},
+    {key : 2, label : 'Portfolio', link:'#portfolio'},
+    {key : 3, label : 'Contact', link:'#contact'}
+  ]
+
+  const background = {
+    margin : "0px",
+    backgroundColor : "#FFFFFF"
+  }
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div style = {background}>
+      <Header links = {links}/>
+      <Body links = {links}/>
     </div>
   );
 }
