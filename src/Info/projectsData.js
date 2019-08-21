@@ -20,7 +20,7 @@ const projectsData = [
   {
     id: 4,
     name : "Door Detection",
-    description : "Given an image, this script is able to detect any doors present.",
+    description : "Given an image, this script is able to accurately detect any doors present with the use of algorithms.",
     tech : ["Python", "Git"]
   },
   {
