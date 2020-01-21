@@ -41,6 +41,18 @@ const projectsData = [
     description : "Openpose uses machine learning to track in real time multi-person keypoints. It contains a library for body, face, hands, and foot estimation given a video or image.",
     tech : ["C++","GPGPU", "Machine Learning"]
   },
+  {
+    id: 8,
+    name: "Weather Application",
+    description: "Mobile application created using Google's Flutter. The data is fetched from openweather.org's API and displayed in the aplication. Supports autocomplete, user-localization, and temperature conversion.",
+    tech: ["Dart", "Flutter", "REST API"]
+  },
+  {
+    id: 9,
+    name: "Travel Application",
+    description: "Mobile application meant to serve as a template for traveling. It guides users to hotels, and activities in different destinations.",
+    tech: ["Dart", "Flutter"]
+  },
 ]
 
 export default projectsData

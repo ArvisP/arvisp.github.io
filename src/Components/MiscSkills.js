@@ -12,6 +12,13 @@ function MiscSkills(){
     <div className = "skillFrame" align = "center">
       <p style = {boldFont}>Miscellaneous</p>
       <img
+        src={require("../img/flutter-icon.png")}
+        alt="flutter"
+        width="10%"
+        height="10%"
+        style={styles}
+      />
+      <img
         src = {require("../img/html-icon.png")}
         alt="html"
         width="10%"
@@ -64,12 +71,18 @@ function MiscSkills(){
       />
       <img
         src = {require("../img/heroku-icon.png")}
-        alt="git"
+        alt="heroku"
         width="10%"
         height="10%"
         style = {styles}
       />
-
+      <img
+        src = {require("../img/nodejs-icon.png")}
+        alt="nodejs"
+        width="10%"
+        height="10%"
+        style = {styles}
+      />
 
     </div>
   )

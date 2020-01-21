@@ -33,7 +33,12 @@ function ProgramLang(){
         width="20%"
         height="20%"
       />
-
+      <img
+        src={require("../img/dart-icon.png")}
+        alt="dart"
+        width="20%"
+        height="20%"
+      />
 
     </div>
   )
