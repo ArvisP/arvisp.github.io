@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.de0c838c.chunk.css",
+    "main.js": "/static/js/main.541dffc3.chunk.js",
+    "main.js.map": "/static/js/main.541dffc3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5eb8e6b3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5eb8e6b3.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.5b2f1f61.chunk.js": "/static/js/2.5b2f1f61.chunk.js",
+    "static/js/2.5b2f1f61.chunk.js.map": "/static/js/2.5b2f1f61.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4bbf835c4d2035f69c49ae16eaf560d6.js": "/precache-manifest.4bbf835c4d2035f69c49ae16eaf560d6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.de0c838c.chunk.css.map": "/static/css/main.de0c838c.chunk.css.map",
+    "static/js/2.5b2f1f61.chunk.js.LICENSE": "/static/js/2.5b2f1f61.chunk.js.LICENSE",
+    "static/media/A1.png": "/static/media/A1.fd10f22e.png",
+    "static/media/App.css": "/static/media/paperTexture.19c65855.jpg",
+    "static/media/apache-icon.png": "/static/media/apache-icon.611a3f2c.png",
+    "static/media/aws-icon.png": "/static/media/aws-icon.3de0e327.png",
+    "static/media/cpp-icon.png": "/static/media/cpp-icon.07594703.png",
+    "static/media/dart-icon.png": "/static/media/dart-icon.b6270035.png",
+    "static/media/flask-icon.png": "/static/media/flask-icon.7e482d7f.png",
+    "static/media/html-icon.png": "/static/media/html-icon.a90713d6.png",
+    "static/media/java-icon.jpg": "/static/media/java-icon.46659831.jpg",
+    "static/media/js-icon.png": "/static/media/js-icon.845969b3.png",
+    "static/media/mongodb-icon.png": "/static/media/mongodb-icon.09ed2051.png",
+    "static/media/nodejs-icon.png": "/static/media/nodejs-icon.34f0a83f.png",
+    "static/media/python-icon.ico": "/static/media/python-icon.86bce2e2.ico",
+    "static/media/react-icon.png": "/static/media/react-icon.f88890dd.png",
+    "static/media/sql-icon.png": "/static/media/sql-icon.e30ffe88.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5eb8e6b3.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.5b2f1f61.chunk.js",
+    "static/css/main.de0c838c.chunk.css",
+    "static/js/main.541dffc3.chunk.js"
+  ]
+}
